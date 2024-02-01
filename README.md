@@ -1,1 +1,1 @@
-# Ads_analysis (PostgreSQL)
+# PostgreSQL projects
